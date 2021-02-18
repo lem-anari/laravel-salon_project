@@ -1,0 +1,32 @@
+.text_color {
+    color: black;
+}
+.location{
+    text-align: center;
+}
+.align_text{
+    text-align: center;
+}
+
+#button_welcome{
+    margin: 15px;
+    height: 35px;
+    width: 120px;
+    border-radius: 5px;
+    color: white;
+    background: rgb(216, 155, 186);
+}
+.size_h{
+    font-size: 30px;
+}
+.border{
+    border: 0.3px solid grey;
+    margin-bottom: 25px;
+}
+#admin_tab{
+    margin: 100px;
+    font-size: 40px;
+    margin: 50px;
+    height: 100px;
+    width: 140px;
+}
